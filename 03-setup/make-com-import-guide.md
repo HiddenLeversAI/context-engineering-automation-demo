@@ -128,12 +128,6 @@ Before importing the workflow, ensure you have:
 
 ## Production Deployment
 
-### Security Checklist
-- [ ] Use environment variables for API keys
-- [ ] Implement webhook signature verification
-- [ ] Set up proper IAM roles for service accounts
-- [ ] Enable audit logging for all integrations
-
 ### Scalability Considerations
 - [ ] Configure auto-scaling for high-volume processing
 - [ ] Implement queue management for batch processing

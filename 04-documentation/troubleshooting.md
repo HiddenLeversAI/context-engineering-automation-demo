@@ -20,6 +20,7 @@
 2. Pre-install required apps: Airtable, Google Docs, OpenAI
 3. Check JSON file integrity (should be ~29KB)
 4. Try importing in new scenario rather than existing one
+5. Follow detailed import guide: https://scribehow.com/shared/How_to_Import_a_Makecom_Blueprint_Into_Your_ScenarioWorkflow__1XGGdC5NRo2yAXsjQKOPZA
 ```
 
 #### Issue: "Webhook URL not generating"

@@ -20,6 +20,7 @@ Before importing the workflow, ensure you have:
    - Click the three dots menu in scenario editor
    - Select "Import Blueprint"
    - Upload `../01-workflows/transcript-cleanup-tagging-v3.json`
+   - **Need help with importing?** Follow this step-by-step guide: [How to Import a Make.com Blueprint](https://scribehow.com/shared/How_to_Import_a_Makecom_Blueprint_Into_Your_ScenarioWorkflow__1XGGdC5NRo2yAXsjQKOPZA)
 
 3. **Verify Import**
    - Confirm all modules loaded correctly
@@ -147,6 +148,7 @@ Before importing the workflow, ensure you have:
 
 ## Support Resources
 
+- **Make.com Blueprint Import Guide**: [How to Import a Make.com Blueprint](https://scribehow.com/shared/How_to_Import_a_Makecom_Blueprint_Into_Your_ScenarioWorkflow__1XGGdC5NRo2yAXsjQKOPZA)
 - **Make.com Documentation**: [make.com/help](https://make.com/help)
 - **Airtable API Docs**: [airtable.com/developers](https://airtable.com/developers)
 - **OpenAI API Reference**: [platform.openai.com/docs](https://platform.openai.com/docs)

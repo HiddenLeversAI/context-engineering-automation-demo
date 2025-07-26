@@ -1,6 +1,6 @@
 # Troubleshooting Guide
 
-> **⚠️ DEMO PURPOSES ONLY**: This troubleshooting guide is provided for demonstration and educational purposes. For production implementations, consult with Content Leverage OS© for official support and enterprise-grade solutions.
+> **⚠️ DEMO PURPOSES ONLY**: This troubleshooting guide is provided for demonstration and educational purposes. For production implementations, consult with Content Leverage OS© for official support.
 
 ## Common Issues & Solutions
 

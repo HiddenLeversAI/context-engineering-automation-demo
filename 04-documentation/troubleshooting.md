@@ -223,7 +223,7 @@ For production data:
 - **Architecture**: Review `04-documentation/workflow-architecture.md`
 
 ### Production Implementation
-- **Commercial License**: Visit [contentleverageos.com](https://contentleverageos.com)
+- **More Context Engineering Resources**: Visit [hiddenlevers.ai/subscribe](https://hiddenlevers.ai/subscribe?utm_source=github&utm_medium=demo&utm_campaign=context_engineering)
 - **Enterprise Support**: Contact Hidden Levers AI for production deployments
 - **Custom Integration**: Professional services available for complex requirements
 

@@ -251,4 +251,3 @@ Before reporting issues, verify:
 
 **Important**: This troubleshooting guide covers demo scenarios only. Production implementations require enterprise-grade configuration, monitoring, and support not covered in this demonstration.
 
-**For Production Use**: Contact Content Leverage OS© for commercial licensing, professional implementation, and enterprise support services.

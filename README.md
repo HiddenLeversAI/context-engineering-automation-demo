@@ -130,7 +130,6 @@ This demo showcases a **real production workflow** used by the CLOS system to:
 
 This demonstration is provided for educational purposes. See LICENSE for full terms.
 
-**For Production Use**: Contact [Content Leverage OS](https://contentleverageos.com) for commercial licensing and enterprise support.
 
 ---
 
